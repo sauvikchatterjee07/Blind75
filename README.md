@@ -1,2 +1,2 @@
 # Blind75
-Famour Blind 75 Solutions
+Famous Blind 75 Solutions
